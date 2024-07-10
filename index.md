@@ -27,9 +27,9 @@
 
 * **<font size=4> Publications </font>**
 
- * Z. Zhang, M. Fang, M. Chen, G. Li, X. Lin, and Y. Liu, ''Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**--> 
+  * Z. Zhang, M. Fang, M. Chen, G. Li, X. Lin, and Y. Liu, ''Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**--> 
   
- * M. Fang, Z. Zhang, F. Hairi, P. Khanduri, J. Liu, S. Lu, N. Gong, and Y. Liu, ‘‘Toward Byzantine-Robust Decentralized Federated Learning’’, ACM Conference on Computer and Communications Security (**CCS**), to appear, 2024.
+  * M. Fang, Z. Zhang, F. Hairi, P. Khanduri, J. Liu, S. Lu, N. Gong, and Y. Liu, ‘‘Toward Byzantine-Robust Decentralized Federated Learning’’, ACM Conference on Computer and Communications Security (**CCS**), to appear, 2024.
   
 
 &emsp;
