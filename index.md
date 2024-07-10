@@ -38,6 +38,8 @@
 
 * **<font size=4> Tools and Platforms </font>**
 
+  * This interactive platform to dynamically engage users with visualization data, allowing in-depth exploration of data poisoning behavious with federated learning. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
+
   * The repository for securing digital twins against various model poisoning attacks based on network traffic analysis. [Link (to be announced)](xxx)
 
 
