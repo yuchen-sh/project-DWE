@@ -7,7 +7,7 @@
 
   * Award numbers: NSF SaTC-2350075
   * Project period: 07/01/2024 – 06/30/2027
-  * Principal investigators: Dr. Anumpam Das, Dr. Yuchen Liu
+  * Principal investigators: Dr. Anupam Das, Dr. Yuchen Liu
   * Graduate students: Zifan Zhang, Zhijin Yang, Zhiyuan Peng
     <!-- <img alt="" src="Research8.png" width="65%" height="65%" /> -->
 
