@@ -39,7 +39,9 @@
 
 * **<font size=4> Tools and Platforms </font>**
 
-  * This interactive platform to dynamically engage users with visualization data, allowing in-depth exploration of data poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
+  * The interactive platform to dynamically engage users with visualization data, allowing in-depth exploration of data poisoning behavious in federated learning systems. [Link](https://github.com/CathyXueqingZhang/DataPoisoningVis)
+ 
+  * The platform for enhancing network intrusion detection by integrating decision trees with large language models (LLMs) to improve attack detection, analysis, and interpretability. [Link](https://github.com/Dongming1010/IDS-LLM)
 
   * The repository for securing digital twins against various model poisoning attacks based on network traffic analysis. [Link (to be announced)](xxx)
 
