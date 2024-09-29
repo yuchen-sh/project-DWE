@@ -26,6 +26,7 @@
 
 
 * **<font size=4> Publications </font>**
+  * D. Wu, Z. Peng, M. Chen, and Y. Liu, ''Transforming Network Intrusion Detection Using Large Language Models'', Proc. of IEEE Consumer Communications & Networking Conference (**CCNC**), to appear, 2025.
 
   * Z. Zhang, M. Fang, M. Chen, G. Li, X. Lin, and Y. Liu, ''Securing Distributed Network Digital Twin Systems Against Model Poisoning Attacks'', IEEE Internet of Things Journal (**IoT-J**) \[J\], to appear, 2024. <!--**<font style="background: #44CEF6" color='white' size=2>Networks</font>**--> 
   
